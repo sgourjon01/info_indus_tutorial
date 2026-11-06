@@ -1,0 +1,16 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.detectIndentation": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "C_Cpp.clang_format_sortInCludes": false,
+    "python.formatting.autopep8Args":[
+        "--ignore",
+        "E402"
+    ],
+    "terminal.integrated.scrollback": 100000,
+    "workbench.editor.enablePreview": false,
+    "[restructuredtext]": {
+        "editor.tabSize": 3
+    },
+}
